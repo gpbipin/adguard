@@ -1,0 +1,25 @@
+# Bipin: default blocklist
+# Blocking some sites
+#
+# Project home page:
+# https://github.com/github.io/
+#
+#Latest version of this file:
+# https://github.com/gpbipin/adguard/new/master/hosts.txt
+#
+# License:
+# CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
+#
+# Contributions by:
+# Bipin
+#
+#
+#
+
+127.0.0.1  localhost
+
+# [roblox.com]
+127.0.0.1 roblox.com
+
+# [datesinindia.com]
+127.0.0.1 datesinindia.com
