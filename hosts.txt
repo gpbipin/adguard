@@ -19,7 +19,7 @@
 127.0.0.1  localhost
 
 # [roblox.com]
-127.0.0.1 roblox.com
+127.0.0.1 games.roblox.com
 
 # [datesinindia.com]
 127.0.0.1 datesinindia.com
