@@ -20,6 +20,7 @@
 
 # [roblox.com]
 127.0.0.1 games.roblox.com
+127.0.0.1 setup.roblox.com 
 
 # [datesinindia.com]
 127.0.0.1 datesinindia.com
