@@ -24,3 +24,10 @@
 
 # [datesinindia.com]
 127.0.0.1 datesinindia.com
+
+# adservers
+
+co1linesu.ru
+dii1ster.com
+xml.admeridianads.com
+xml.flairadscpc.com
