@@ -31,3 +31,6 @@ co1linesu.ru
 dii1ster.com
 xml.admeridianads.com
 xml.flairadscpc.com
+
+# 8live
+m.8live.win
