@@ -20,6 +20,7 @@
 ::1  localhost
 
 # [roblox.com]
+127.0.0.1 roblox.com
 ||roblox.com^
  
 
