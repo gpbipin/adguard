@@ -20,7 +20,7 @@
 ::1  localhost
 
 # [roblox.com]
-||roblox.com
+||roblox.com^
  
 
 # [datesinindia.com]
