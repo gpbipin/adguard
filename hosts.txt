@@ -36,9 +36,6 @@ xml.flairadscpc.com
 # 8live
 m.8live.win
 
-# [Youtube]
-#127.0.0.1 youtube.com/
-#127.0.0.1 m.youtube.com
-#||youtube.com^
+
 
 
