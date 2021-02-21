@@ -17,6 +17,7 @@
 #
 
 127.0.0.1  localhost
+::1  localhost
 
 # [roblox.com]
 127.0.0.1 games.roblox.com
@@ -35,5 +36,7 @@ xml.flairadscpc.com
 # 8live
 m.8live.win
 
-# Youtube
-youtube.com
+# [Youtube]
+127.0.0.1 youtube.com
+127.0.0.1 m.youtube.com
+
